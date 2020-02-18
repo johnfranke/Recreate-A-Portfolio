@@ -1,4 +1,3 @@
-# homework01
-My First Homework
+# Recreate A Porfolio
 
-This is my first homework assignment for KU Coding Bootcamp. This is an example of a portfolio website. I used html and css to create it.
+This was an assignment to recreate a portfolio website based on given images. This was created with HTML and CSS.
